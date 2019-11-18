@@ -3,7 +3,7 @@ ver=Dm:9.2.1.0
 
 
 [guncel]
-not=- İndirme işlemeri Guncellenecektir
+not=- Github indirme siteleri yenilendi
 
 not2=- İslemler İyilestirildi
 
@@ -17,7 +17,7 @@ not6=- UpBaslatSystem
 
 not7=- Sanal Makine Dosya Upload Ve İyilestirilme
 
-not8=- En İyilemek İcin Uygulama uzeri setup kurulumu yapınız 
+not8=- 
 
 not9=- 
 
@@ -33,7 +33,7 @@ not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Po
 
 
 [guncelyap]
-guncelle=1
+guncelle=0
 
 [kapanma]
 sebep=İşlem Arızaları Mevcuttur
