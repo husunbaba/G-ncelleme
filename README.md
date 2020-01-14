@@ -33,7 +33,7 @@ not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Po
 
 
 [guncelyap]
-guncelle=0
+guncelle=1
 
 [kapanma]
 sebep=İşlem Arızaları Mevcuttur
