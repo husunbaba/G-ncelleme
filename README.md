@@ -1,5 +1,5 @@
 [versin]
-ver=Dm:9.2.1.0
+ver=Dm:Beta 
 
 
 [guncel]
@@ -33,7 +33,7 @@ not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Po
 
 
 [guncelyap]
-guncelle=1
+guncelle=0
 
 [kapanma]
 sebep=İşlem Arızaları Mevcuttur
