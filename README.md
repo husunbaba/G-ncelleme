@@ -1,5 +1,5 @@
 [versin]
-ver=Dm:Beta 
+ver=Dm:1.
 
 
 [guncel]
@@ -36,4 +36,4 @@ not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Po
 guncelle=0
 
 [kapanma]
-sebep=Guncellemeler uzerinde calisiliyor
+sebep=Uygulama ici server cokmus durumda
