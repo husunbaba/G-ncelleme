@@ -3,7 +3,7 @@ ver=Dm:Beta
 
 
 [guncel]
-not=- Github indirme siteleri yenilendi
+not=- 
 
 not2=- İslemler İyilestirildi
 
@@ -33,7 +33,7 @@ not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Po
 
 
 [guncelyap]
-guncelle=1
+guncelle=0
 
 [kapanma]
 sebep=Guncellemeler uzerinde calisiliyor
